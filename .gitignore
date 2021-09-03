@@ -1,0 +1,5 @@
+#忽略in.html文件
+in.html
+
+#忽略 test 目录下所有文件
+test/
